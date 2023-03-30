@@ -1,0 +1,15 @@
+body{
+  padding:0;
+  margin:0;
+  overflow: hidden;
+}
+
+canvas{
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+  border: 1px dotted #0040ff;
+  vertical-align: bottom;
+  margin:0;
+  padding:0;
+}
